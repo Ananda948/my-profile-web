@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name":"Ananda Prasetya",
+    "description":"Hi, I'm a Systems Analyst with a keen eye for detail and a deep understanding of both technical systems and organizational goals, I thrive on the challenge of identifying opportunities for enhancement and crafting innovative solutions that drive efficiency and innovation",
+    "image":"profile-pic.jpg",
+    "bio":"I'm Ananda Prasetya. I'm dedicated to ensuring that technology not only meets but exceeds the needs of the business, and I'm excited to be part of the dynamic field of IT where adaptability and problem-solving are key to success.",
+    "contactmessage":"If you have any questions, please feel free to contact me.",
+    "email": "prsananda14@gmail.com",
+    "phone": "+6287826963824",
+    "github":"https://github.com/Ananda948",
+    "project":"https://bit.ly/anandaprasetya",
+    "address":{
+      "street":"Klaling Kambang RT 03 RW 03, Kec. Jekulo",
+      "city":" Kudus",
+      "state":" Jawa Tengah",
+      "zip": "59382"
+    },
+    "website": "https://nandanandas.blogspot.com/",
+    "resumedownload":"https://bit.ly/46iLLfi",
+    "social":[
+      {
+        "name":"instagram",
+        "url":"https://instagram.com/nannndhaa?igshid=OGQ5ZDc2ODk2ZA==",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"linkedIn",
+        "url":"https://bit.ly/anandaprasetya",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Ananda948",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"The skills that I have",
+    "education":[
+      {
+        "school":"Universitas Negeri Semarang",
+        "degree":"Bachelor of Information Systems",
+        "graduated":"2019 - 2023",
+        "description":"Overall, an information systems study program equips students with a well-rounded skill set that prepares them for diverse roles in IT, from system analysis and software development to database administration and IT consulting. It also provides a strong foundation for staying relevant in the ever-changing field of information technology."
+      }
+    ],
+    "experience":[
+      {
+        "company":"PT Hacktivate Teknologi Indonesia",
+        "title":"Internship and Certified Independent Study (Intro to Programming)",
+        "years":"2021 - 2022",
+        "description":"Dynamic website development (HTML, CSS, JavaScript), Data retrieval from API, JavaScript and jQuery logic data processing, DOM manipulation, Project leader in making the final project."
+      },
+      {
+        "company":"PT Lentera Bangsa Benderang",
+        "title":"Internship and Certified Independent Study (Web Fullstack)",
+        "years":"2022 – 2022",
+        "description":"Dynamic Web Development (NodeJs, Express, ReactJs), Object Oriented Programming and DOM implementation, Database design (Restful API, Query, ORM), GIT installation, initialization, and commit, Unit Testing and Deployment."
+      },
+      {
+        "company":"PT Bank Negara Indonesia (Persero) Tbk",
+        "title":"Internship FHCI BUMN PMMB (UMC General Branch Unit)",
+        "years":"2022 – 2023",
+        "description":"Procurement process, Preparation of internal memorandum, ATM and operational lease renewal, Bookkeeping and administrative records, Data entry."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Systems Analysis (Plan, Analyze, Design, Implement)",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"RDBMS (SQL, PostgreSQL)",
+        "level":"80%"
+      },
+      {
+        "name":"HTML, CSS, JavaScript",
+        "level":"90%"
+      },
+      {
+        "name":"JIRA Service Management",
+        "level":"80%"
+      },
+      {
+        "name":"Microsoft Office",
+        "level":"95%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Binar APP",
+        "category":"A simple e-commerce web",
+        "image":"Picture1.png",
+        "url":"https://bit.ly/binar-app"
+      },
+      {
+        "title":"Explanade Trip Destination",
+        "category":"A trip destination web",
+        "image":"Picture2.png",
+        "url":"https://bit.ly/explanade-web"
+      },
+      {
+        "title":"Weather Predictions Web",
+        "category":"A simple weather predictions web",
+        "image":"Picture3.png",
+        "url":"https://bit.ly/weather-predicts"
+      },
+      {
+        "title":"My Blog",
+        "category":"My personal blog",
+        "image":"Picture4.png",
+        "url":"https://nandanandas.blogspot.com/"
+      }
+    ]
+  }
+}
