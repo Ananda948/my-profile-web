@@ -16,7 +16,7 @@
       "zip": "59382"
     },
     "website": "https://nandanandas.blogspot.com/",
-    "resumedownload":"https://bit.ly/46iLLfi",
+    "resumedownload":"https://drive.google.com/drive/folders/1SJBOvqFT-f04O59OOR0q2IPV1OAiCv2o?usp=sharing",
     "social":[
       {
         "name":"instagram",
@@ -42,6 +42,7 @@
         "school":"Universitas Negeri Semarang",
         "degree":"Bachelor of Information Systems",
         "graduated":"2019 - 2023",
+        "gpa": "GPA 3.66 out of 4.00",
         "description":"Overall, an information systems study program equips students with a well-rounded skill set that prepares them for diverse roles in IT, from system analysis and software development to database administration and IT consulting. It also provides a strong foundation for staying relevant in the ever-changing field of information technology."
       }
     ],
@@ -94,6 +95,12 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"Booktalks E-Commerce",
+        "category":"E-Commerce Dashboard Admin",
+        "image":"Picture5.jpg",
+        "url":"https://booktalks-ecommerce.vercel.app/"
+      },
       {
         "title":"Binar APP",
         "category":"A simple e-commerce web",
